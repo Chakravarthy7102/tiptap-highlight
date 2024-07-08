@@ -1,6 +1,6 @@
 {
   "name": "@devchaks/tiptap-highlight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Highlight Extension for tiptap editor",
   "main": "index.js",
   "scripts": {
