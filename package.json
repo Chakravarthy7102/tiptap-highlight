@@ -1,0 +1,30 @@
+{
+  "name": "@devchaks/tiptap-highlight",
+  "version": "1.0.0",
+  "description": "Highlight Extension for tiptap editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Chakravarthy7102/tiptap-highlight.git"
+  },
+  "keywords": [
+    "tiptap",
+    "highlight",
+    "extension"
+  ],
+  "author": "Chakravarthi Medicharla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chakravarthy7102/tiptap-highlight/issues"
+  },
+  "homepage": "https://github.com/Chakravarthy7102/tiptap-highlight#readme",
+  "dependencies": {
+    "@tiptap/core": "^2.0.3",
+    "lodash": "^4.17.21",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {}
+}
